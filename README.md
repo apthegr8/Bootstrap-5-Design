@@ -1,5 +1,5 @@
-# Tutorial-Bootstrap-5-Design
-Based on tutorial
+# Bootstrap-5-Design
+
 
 # My Bootstrap 5 Webpage
 
@@ -18,4 +18,3 @@ This project is a simple example of a webpage built with Bootstrap 5. It's desig
 - Easy-to-understand structure.
 
 
-Part of tutorial.
